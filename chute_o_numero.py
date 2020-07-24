@@ -1,7 +1,6 @@
 import random as rd
 
 n = rd.randrange(100)
-print(n)
 j = True
 
 while j:
